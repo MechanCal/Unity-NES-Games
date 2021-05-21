@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: e66d2afc7353f4852ba309a0d0c785f0
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - halfDoorLeftTransform: {instanceID: 0}
+  - halfDoorRightTransform: {instanceID: 0}
+  - doorOpeningSoundClip: {fileID: 8300000, guid: 80d08fa5dccc64ffa90d6734ce03512e,
+      type: 3}
+  - doorClosingSoundClip: {fileID: 8300000, guid: 4547fb4d1627d4ce6acc55af375f84f4,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
